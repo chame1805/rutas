@@ -1,0 +1,16 @@
+#title {
+  display: flex;
+ 
+  height: 300%;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+  height: 30vh; /* Ajusta la altura del contenedor si es necesario */
+  font-family: 'Get Schwifty', sans-serif; /* Suponiendo que estás usando una fuente similar */
+  font-size: 10em; /* Ajusta el tamaño de la fuente */
+  color: black; /* Color similar al de Rick and Morty */
+  background-image: url("./final.jpeg");
+  background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
+  background-size: 15%; /* Ajusta el tamaño de la imagen de fondo */
+  background-position: center; /* Centra la imagen de fondo */
+}
+
